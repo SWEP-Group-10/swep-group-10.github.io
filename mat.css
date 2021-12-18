@@ -1,0 +1,52 @@
+body{
+	background-color:green;
+}
+header{
+	border:white;
+	background:none;
+	color:white;
+	text-align: center;	
+	padding:5px;
+}
+#top_menu{
+	border:white;
+	background:pink;
+	color:white;
+	text-align: center;	
+	padding:20px;
+	border-top-right-radius:15px;
+	border-top-left-radius:15px;
+	margin-top: 10px;
+}
+nav>a{
+	color:white;
+	margin: 20px;
+	font-family:Centaur,Tahoma,Times New Roman,;
+	font-style: bold;
+	text-decoration: none;
+}
+nav>a:hover{
+	color: black;
+	font-size:18px;
+}
+table{
+	margin-top:15px;
+}
+footer{
+	border:white;
+	background:pink;
+	color:white;
+	text-align: center;	
+	padding:20px;
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+	margin-top: 5px;
+}
+fieldset{
+	background-color:diamond;
+	
+}
+footer>a:hover{
+	color: black;
+	font-size:18px;
+}

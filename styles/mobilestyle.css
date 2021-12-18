@@ -1,0 +1,29 @@
+body{background-color:cyan;}
+div.body{border-radius:20px;border:1px ridge purple; padding:20px; width:730px;background-color:#ccddff;
+ overflow:auto;}
+h3{border:3px ridge purple;text-align:center; border-radius:20px; background-color:purple; color:white;}
+p{padding:5px; font-size:17px; text-align:left; font-weight:100; margin:10px; }
+p.class1{font-size:20px;text-align:left;}
+div.floatRight{float:right; margin:1px; height:500px;
+ width:155px;
+ text-color:purple;}
+width:200px; align:right;}
+h2{color:black;}
+a{ text-decoration:none; color:black;}
+img.first{border-radius:20px;width:500px; 
+border:5px solid purple; height:50px; padding:20px; background-color:#eeffff; padding-right:5px; overflow:auto;}
+div.first{border-radius:20px;background-color:#eeffff; border:0px ridge silver; width:520px; float:left;
+ overflow:auto; margin-top:30px; z-index:-20;}
+div.second{background-color:purple; width:540px;border: 5px ridge purple;
+ float:left;color:white; margin-bottom:50px;border-radius:20px;}
+ul{list-style-type: none;padding:0px;}
+a.div{color:white;}
+a.third{float:right; margin-right:5px; color:red;}
+h4{padding:0px; margin:0px;}
+a.text{color:white;}
+a.colorred{color:red;}
+h3.floatRight{margin:0px;}
+p.bold{ font-family:serif; font-weight:190;}
+div.number{height:20px; width:20px; border:1px solid purple; float:right; margin:10px;}
+h2.ridge{background-color:purple; color:white; border:3px ridge purple;margin:0px;border-radius:20px; }
+h3.first{padding:10px;margin:1px; border:5px ridge purple; background-color:#eeffff;color:purple;}
